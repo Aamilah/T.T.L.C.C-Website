@@ -1301,7 +1301,18 @@ body.mobile-nav-active #mobile-nav-toggle {
   border: 0;
   color: #fff;
 }
-
+.btn {
+  font-size: 15px;
+  border: none;
+  padding: 10px 40px;
+  transition: all 0.2s;
+  background-color:   #FFAA17;
+  border: 0;
+  color: #fff;
+}
+ .btn:hover {
+  background-color: #2d2d91;
+}
 #info .card .btn:hover {
   background-color: #2d2d91;
 }
